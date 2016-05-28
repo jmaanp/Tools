@@ -52,7 +52,7 @@ function Get-JmaNstInstance
 	
 	.PARAMETER NavisionMajorVersion
 		Controls the PowerShell module path.
-        This parameter is for future usage
+        This parameter is for future usage.
 	
 	.EXAMPLE
 		Get-JmaNstInstance -ComputerName dsmnst02, dsmnst03
