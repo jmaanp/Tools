@@ -9,7 +9,7 @@
         Mimicing the Microsoft TaskScheduler module you can filter on the taskname with the asterix char (*).
 
         .PARAMETER ComputerName
-		An array of one or more computernames.
+	An array of one or more computernames.
 
         .PARAMETER TaskName
         Specify a path for scheduled tasks in the Task Scheduler namespace.
