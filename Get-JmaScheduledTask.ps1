@@ -24,7 +24,7 @@
         Get-JmaScheduledTask -TaskName '\MyFolder\MyTask' -ComputerName Server1, Server2 -Verbose
 
         .EXAMPLE
-        Search for task(s) from remote computers Server1 and server2 (wildcard).
+        Search for task(s) from remote computers Server1 and server2 (wildcard). 
         Get-JmaScheduledTask -TaskName '\MyFolder\*' -ComputerName Server1, Server2
 
         .NOTES
